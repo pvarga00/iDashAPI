@@ -1,0 +1,11 @@
+C:\iDashAPI\iDashAPI\iDashAPI\bin\Debug\netcoreapp2.0\iDashAPI.deps.json
+C:\iDashAPI\iDashAPI\iDashAPI\bin\Debug\netcoreapp2.0\iDashAPI.runtimeconfig.json
+C:\iDashAPI\iDashAPI\iDashAPI\bin\Debug\netcoreapp2.0\iDashAPI.runtimeconfig.dev.json
+C:\iDashAPI\iDashAPI\iDashAPI\bin\Debug\netcoreapp2.0\iDashAPI.dll
+C:\iDashAPI\iDashAPI\iDashAPI\bin\Debug\netcoreapp2.0\iDashAPI.pdb
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.csprojResolveAssemblyReference.cache
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.csproj.CoreCompileInputs.cache
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.AssemblyInfoInputs.cache
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.AssemblyInfo.cs
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.dll
+C:\iDashAPI\iDashAPI\iDashAPI\obj\Debug\netcoreapp2.0\iDashAPI.pdb

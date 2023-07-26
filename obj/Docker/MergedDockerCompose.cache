@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  idashapi:
+    build:
+      context: C:\iDashAPI\iDashAPI
+      dockerfile: iDashAPI\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: idashapi
+    ports:
+    - 80/tcp
+version: '3.0'
